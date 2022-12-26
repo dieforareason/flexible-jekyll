@@ -1,0 +1,42 @@
+---
+title: Hello, world! I'm David Freeman
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+'
+permalink: ":title/"
+baseurl: "/flexible-jekyll"
+url: 
+site-twitter: 
+author: David Freeman
+author-img: david-freeman.jpg
+about-author: I am a web developer focusing on front-end development. Always hungry
+  to keep learning.
+social-twitter: 
+social-facebook: 
+social-github: artemsheludko
+social-linkedin: 
+social-email: 
+discus-identifier: mr-brown
+analytics: 
+markdown: kramdown
+plugins:
+- jekyll-sitemap
+- jekyll-paginate
+- jemoji
+paginate: 8
+paginate_path: "/page/:num"
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
+- yarn.lock
