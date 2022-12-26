@@ -1,0 +1,1 @@
+Sitemap: http://appcenter.siteleaf.net/flexible-jekyll/sitemap.xml
