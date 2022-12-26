@@ -15,7 +15,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 permalink: ":title/"
 baseurl: "/flexible-jekyll"
-url: ''
+url: 
 site-twitter: 
 author: David Freeman
 author-img: david-freeman.jpg
